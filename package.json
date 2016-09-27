@@ -1,0 +1,25 @@
+{
+  "name": "sublime-js-snippets",
+  "version": "0.0.1",
+  "description": "Write JavaScript quickly with over 150+ handy snippets.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PombaM/sublime-js-snippets.git"
+  },
+  "keywords": [
+    "ecmascript",
+    "ecmascript6",
+    "es6",
+    "javascript",
+    "js",
+    "jsx",
+    "react",
+    "reactjs"
+  ],
+  "author": "Pomba Magar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PombaM/sublime-js-snippets/issues"
+  },
+  "homepage": "https://github.com/PombaM/sublime-js-snippets#readme"
+}

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+getInitialState() {
+	return {
+		${1:key}: '${2:value}'
+	}
+},
+
+]]></content>
+  <tabTrigger>gis</tabTrigger>
+  <description>Get Initial State (getInitialState)</description>
+  <scope>source.js, source.jsx.js</scope>
+</snippet>
